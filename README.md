@@ -1,14 +1,15 @@
 # Диплом и сертификаты о прохождении курсов
 1. [Диплом о высшем образовании с отличием (Diploma)](https://github.com/Yourius/Certificates/blob/main/diploma_RU.jpg)
 2. [Certificate of Complition of the Data Analyst Profeccional Training Course (Postgraduate Diploma)](https://github.com/Yourius/Certificates/blob/main/certificate_yandex_practicum_internship.pdf)
-3. [Bioinformatics Institute. Data analysis in R](https://github.com/Yourius/Certificates/blob/main/stepik-certificate-129-7277678.pdf)
-4. [Stepik. A/B tests with Gleb Mikhailov](https://github.com/Yourius/Certificates/blob/main/stepik-certificate-194930-7002199.pdf)
-5. [Stepik. Интерактивный тренажер по SQL](https://github.com/Yourius/Certificates/blob/main/stepik_certificate_sql.pdf)
-6. [Data Science with Gleb Mihailov. Stepik](https://github.com/Yourius/Certificates/blob/main/stepik-certificate-113596-4e38f99.pdf)
-7. [Bioinformatics Institute. Basic Statistics](https://github.com/Yourius/Certificates/blob/main/stepik-certificate-76-7ea22ea.pdf)
-8. [Solo на клавиатуре. English](https://github.com/Yourius/Certificates/blob/main/Solo_typing_EN.pdf)
-9. Курс "Excel для работы"| Яндекс.Практикум
-10. [Freedom Finance. Обучение торговле на Американском фондовом рынке](https://github.com/Yourius/Certificates/blob/main/freedom_cert.jpg)
+3. [Stepik. AI Agents and N8N Automation: From Zero to Hero](https://github.com/Yourius/Certificates/blob/main/stepik-certificate-222232-f9a48b4.pdf)
+4. [Bioinformatics Institute. Data analysis in R](https://github.com/Yourius/Certificates/blob/main/stepik-certificate-129-7277678.pdf)
+5. [Stepik. A/B tests with Gleb Mikhailov](https://github.com/Yourius/Certificates/blob/main/stepik-certificate-194930-7002199.pdf)
+6. [Stepik. Интерактивный тренажер по SQL](https://github.com/Yourius/Certificates/blob/main/stepik_certificate_sql.pdf)
+7. [Data Science with Gleb Mihailov. Stepik](https://github.com/Yourius/Certificates/blob/main/stepik-certificate-113596-4e38f99.pdf)
+8. [Bioinformatics Institute. Basic Statistics](https://github.com/Yourius/Certificates/blob/main/stepik-certificate-76-7ea22ea.pdf)
+9. [Solo на клавиатуре. English](https://github.com/Yourius/Certificates/blob/main/Solo_typing_EN.pdf)
+10. Курс "Excel для работы"| Яндекс.Практикум
+11. [Freedom Finance. Обучение торговле на Американском фондовом рынке](https://github.com/Yourius/Certificates/blob/main/freedom_cert.jpg)
 
 
 ___
